@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/Bahrain	'
+TIME_ZONE = 'Asia/Bahrain'
 
 USE_I18N = True
 
